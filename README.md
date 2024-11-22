@@ -1,8 +1,8 @@
 # 👋 Ciao, sono Salvatore Cozzolino!
 
-**Aspiring Full Stack Web Developer 💻 | Problem Solver 🧠 | Attento ai Dettagli 🎯**
+**Full Stack Web Developer 💻 | Problem Solver 🧠 | Attento ai Dettagli 🎯**
 
-Sono un aspirante Full Stack Web Developer con una forte passione per la tecnologia e lo sviluppo di soluzioni innovative. Ho una solida base in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Vue.js**, **PHP**, **Laravel**, **Node.js**, **Vite** e **MySQL**. Amo affrontare problemi complessi e trovare soluzioni eleganti e intuitive, cercando sempre di migliorare le mie competenze e di crescere come professionista. 
+Sono Full Stack Web Developer con una forte passione per la tecnologia e lo sviluppo di soluzioni innovative. Ho una solida base in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Vue.js**, **PHP**, **Laravel**, **Node.js**, **Vite** e **MySQL**. Amo affrontare problemi complessi e trovare soluzioni eleganti e intuitive, cercando sempre di migliorare le mie competenze e di crescere come professionista. 
 
 Utilizzo **VSCode** come il mio laboratorio digitale 🛠️, dove trasformo idee in codice.
 
