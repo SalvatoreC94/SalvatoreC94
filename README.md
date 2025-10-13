@@ -13,9 +13,9 @@ Sono uno sviluppatore con una grande passione per la tecnologia e il problem-sol
 📚 Imparare costantemente per portare il mio codice a un livello superiore.  
 
 ## 🚀 Competenze Tecniche  
-🔹 **Linguaggi:** HTML, CSS, JavaScript, PHP  
-🔹 **Framework e Librerie:** Vue.js, Bootstrap, Laravel, Node.js, Vite  
-🔹 **Strumenti e Tecnologie:** VS Code, Git, GitHub, MySQL  
+🔹 **Linguaggi:** HTML, CSS, JavaScript, PHP, SQL  
+🔹 **Framework e Librerie:** Bootstrap, TailwindCSS, Laravel, Vue.js, Node.js 
+🔹 **Database & Strumenti:** VS Code, Git, GitHub, MySQL  
 
 ## 🎧 Oltre lo sviluppo  
 🎵 Amo la **musica**, 📖 mi perdo nei **libri**, ✈️ adoro **viaggiare** e scoprire nuovi posti.  
