@@ -1,5 +1,5 @@
 # 👋 Ehi, sono Salvatore Cozzolino!  
-💻 **Full Stack Web Developer** | 🧠 **Problem Solver** | 🎯 **Precisione e Creatività**  
+💻 **Web Developer** | 🧠 **Problem Solver** | 🎯 **Precisione e Creatività**  
 
 Sono uno sviluppatore con una grande passione per la tecnologia e il problem-solving. Amo trasformare idee in soluzioni concrete, creando interfacce fluide e curate senza trascurare la logica che le rende performanti. Il mio focus principale è sul **frontend**, ma ho anche una solida esperienza nel **backend**, il che mi permette di avere una visione completa dello sviluppo di un progetto.  
 
